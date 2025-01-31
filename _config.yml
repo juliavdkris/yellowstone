@@ -39,8 +39,7 @@ navbar-links:
   Materialization:
   - Choice of facade tiles: "choice_facade"
   - Facade tile placement: "facade_tile_placement"
-  Final design:
-  - Render: "renders"
+  Final design: "renders"
   Conclusion:
   - Reflection: "reflection"
   - References: "references"
