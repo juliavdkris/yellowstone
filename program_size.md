@@ -10,4 +10,4 @@ Based on the amount of people in each type of residential unit, and the differen
 
 Below is an example layout of an apartment that is 60 square meters, which is approximately the size of a 2 person student housing and a 2 person starter housing.
 
-![example 60m2](/assets/img/60m2.png)
+![example 60m2](/assets/img/60m2.jpg)

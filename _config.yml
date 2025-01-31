@@ -36,9 +36,7 @@ navbar-links:
   Modelling:
   - Building shape: "building_shape"
   - Circulation: "circulation"
-  Materialization:
-  - Choice of facade tiles: "choice_facade"
-  - Facade tile placement: "facade_tile_placement"
+  Materialization: "facade"
   Final design: "renders"
   Conclusion:
   - Reflection: "reflection"
