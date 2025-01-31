@@ -1,11 +1,11 @@
 ---
 layout: page
-title: User needs and programas
+title: Project overview
 subtitle: 
 ---
 
 ## Site location
-![Plot](/assets/img/plot.jpeg){: .mx-auto.d-block :}
+![Plot](/assets/img/plot.jpg){: .mx-auto.d-block :}
 The Schieblock in Rotterdam is our building site. It is well connected to the rest of the city by public transportation, and is a quick walk away from the Rotterdam Centraal train station. The site neighbors many entertainment venues that create a bustling atmosphere in the evening. We aim to integrate our building into this existing environment, while creating privacy for residents. To integrate with the surroundings, the biergarten  will be left untouched, and yellow stairs leading to our building's roof will connect directly to the Luchtsingel bridge. Additionally, the nearby Hofplein area will see significant development in the next several years, with projects such as RISE, which will add new high-rise residential buildings to the skyline, and the Hofplein park, a urban green area. The public square and connection to the Luchsingel bridge will add to this focus on pedestrian connectivity and access to urban green spaces.
 
 ## Vision

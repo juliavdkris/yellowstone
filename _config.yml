@@ -22,9 +22,28 @@ author: Team Entropy
 navbar-links:
   Project overview: "project_overview"
   User needs and programs:
-    - User scenarios: "user_scenarios"
-    - Program requirements: "program_requirements"
-    - Visual aids: "visual_aids"
+  - User scenarios: "user_scenarios"
+  - Program requirements: "program_requirements"
+  - Visual aids: "visual_aids"
+  Massing: 
+  - Program size: "program_size"
+  - Resource management: water and energy: "resource_management"
+  - The building envelope: "building_envelope"
+  Tuning:
+  - Analyses: "analyses"
+  - Weighing: "weighing"
+  - Growth algorithm: "growth_algorithm"
+  Modelling:
+  - Building shape: "building_shape"
+  - Circulation: "circulation"
+  Materialization:
+  - Choice of facade tiles: "choice_facade"
+  - Facade tile placement: "facade_tile_placement"
+  Final design:
+  - Render: "renders"
+  Conclusion:
+  - Reflection: "reflection"
+  - References: "references"
 
   
 ################
