@@ -20,9 +20,13 @@ author: Team Entropy
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Project overview: "project_overview"
+  User needs and programs:
+    - User scenarios: "user_scenarios"
+    - Program requirements: "program_requirements"
+    - Visual aids: "visual_aids"
 
+  
 ################
 # --- Logo --- #
 ################
