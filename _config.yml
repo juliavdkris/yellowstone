@@ -27,7 +27,7 @@ navbar-links:
   - Visual aids: "visual_aids"
   Massing: 
   - Program size: "program_size"
-  - Resource management: water and energy: "resource_management"
+  - Resource management: "resource_management"
   - The building envelope: "building_envelope"
   Tuning:
   - Analyses: "analyses"
