@@ -7,7 +7,7 @@ subtitle:
 ## Facade types
 The facade tiles will be made of oak slats, glass, and concrete.
 
-For the windows, there are four tile types: full window, half window / half wood slats, window with slanted wood slats, and full wood slats (the only option with no window). Designing the window tiles this way allows for the parametric placement of the facade to be made visual.
+For the windows, there are four tile types: full window, half window / half wood slats, window with slanted wood slats, and full wood slats (the only option with no window). Designing the window tiles this way allows for the parametric placement of the facade to be made visual, and to allow in varying amounts of light depending on the sunlight exposure of voxels.
 
 The balconies were designed to be made from four separate pieces that fit together in different combinations. However, due to the time constraint on this project, the final balcony options consist of two presets, both made with smooth curves.
 
