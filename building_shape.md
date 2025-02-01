@@ -15,3 +15,6 @@ The building shape below has a hiher gravity weight and  makes more sense for ou
 Finally, by increasing the gravity weight even more and setting stacking to be slightly lower than the flattening weight, we achieved a suitable building shape.
 ![final building shape front](/assets/img/finalbuilding1.png){: .mx-auto.d-block :}![final building shape back](/assets/img/finalbuilding2.png){: .mx-auto.d-block :}
 
+The color code for the functions:
+![function color code](/assets/img/function_key.png){: .mx-auto.d-block :}
+("small" means that there were two functions with very similar colors, so it is the smaller of the two.)
