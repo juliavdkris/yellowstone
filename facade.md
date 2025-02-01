@@ -11,8 +11,12 @@ For the windows, there are four tile types: full window, half window / half wood
 
 The balconies consist of two presets, both made with smooth curves.
 
+Below are the four window facades and the two balcony presets, in both normal and wireframe view on Houdini.
 ![facade wireframe](/assets/img/facade_wire.png){: .mx-auto.d-block :}
 ![facade](/assets/img/facade.png){: .mx-auto.d-block :}
+
+Lastly, to create an organically shaped building, we created three types of curved corner tiles that would be placed at every corner. The three types are shown below.
+![corners](/assets/img/corners.png){: .mx-auto.d-block :}
 
 ## Facade placement
 The placement procedure depends between windows and balconies, as well as between residential and public functions.
