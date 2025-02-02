@@ -10,9 +10,14 @@ Below is a flowchart showing the general process for the sun, sky view, and hots
 ![sun skyview hotspot flowchart](/assets/img/sun_view_hotspot_flow.png){: .mx-auto.d-block :}
 
 ## Sun analysis (shading others and being shaded)
-The sun analysis was performed using 2019 sun path data obtained from sunearthtools.com. City data was from 3D BAG. Then, raycasting was used and the intersection of voxels with the rays determnied how much sun they were blocking and how much sun was being blocked from reaching them. The image below showsthe output of the sun analysis.
+The sun analysis was performed using 2019 sun path data obtained from sunearthtools.com. City data was from 3D BAG. Then, raycasting was used and the intersection of voxels with the rays determnied how much sun they were blocking and how much sun was being blocked from reaching them. Voxels were then removed based on whether they surpassed the threshold value of hits/blocks ("hits" for shadows cast on our building, "blocks" for shadows cast by our building on surroundings).
+
+Sun analysis output 1 (shadow cast by our voxel cloud):
 
 ![sun](/assets/img/sun.png){: .mx-auto.d-block :}
+
+Sun analysis output 2 (the shadow cast by other buildings):
+
 ![shadow](/assets/img/shadow.png){: .mx-auto.d-block :}
 
 ## Sky view analysis
@@ -22,6 +27,7 @@ A similar method was used for the sky view analysis as for the sun analysis, exc
 
 ## Hotspot analysis
 The hotspot analysis checks the visibility of the following five hotspots: Rotterdam Centraal Station, Stadhuis Rotterdam, Euromast, Erasmus Brug, and Kralingse Plas. In the end, however, this analysis was not incorporated into the facade placement because it limited in its execution: it does not take into account that the building blocks itself from certain views. 
+
 The below image displays the visibility of the Erasmus Brug hotspot. There are four others for the four other hotspots.
 
 ![erasmus brug](/assets/img/erasmus.png){: .mx-auto.d-block :}
