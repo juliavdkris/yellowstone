@@ -30,10 +30,8 @@ Where:
 - η = System efficiency (panel + inverter losses)
 
 As mentioned before, A = 1500 m². The solar irradience for Rotterdam is about 1,000-1,2000 kWh/m²/year (PVGIS). The system efficiency, η, is set as 0.18 (NREL). These values give us the following minimum and maximum energy output of our building:
-
-1,500 * 1,000 * 0.18 = 270,000
-
-1,500 * 1,200 * 0.18 = 324,000
+- 1,500 * 1,000 * 0.18 = 270,000
+- 1,500 * 1,200 * 0.18 = 324,000
 
 Total energy output= 270 - 324 kWh/year
 
