@@ -12,7 +12,7 @@ Below is a flowchart showing the general process for the sun, sky view, and hots
 ## Sun analysis (shading others and being shaded)
 The sun analysis was performed using 2019 sun path data obtained from sunearthtools.com. City data was from 3D BAG. Then, raycasting was used and the intersection of voxels with the rays determnied how much sun they were blocking and how much sun was being blocked from reaching them. Voxels were then removed based on whether they surpassed the threshold value of hits/blocks ("hits" for shadows cast on our building, "blocks" for shadows cast by our building on surroundings).
 
-Sun analysis output 1 (shadow cast by our voxel cloud):
+Sun analysis output 1 (shadow cast by our voxel cloud) (red = less sun, green = more sun):
 
 ![sun](/assets/img/sun.png){: .mx-auto.d-block :}
 
@@ -35,7 +35,7 @@ The below image displays the visibility of the Erasmus Brug hotspot. There are f
 ## Noise analysis
 We performed the noise analysis using a soundmap from atlasleefomgeving.nl (Atlas of The Living Environment). The analysis calculates how noise travels through the space by assigning values to points based on their distance from noise sources. Then these values are weighed and normalized to create the final acoustic analysis.
 
-Below is a flowchart showing the process, as well as the output of the noise analysis.
+Below is a flowchart showing the process, as well as the output of the noise analysis (red = more noise, green = less noise).
 
 ![noise flowchart](/assets/img/sun_view_hotspot_flow.png){: .mx-auto.d-block :}
 
