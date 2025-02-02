@@ -6,7 +6,7 @@ subtitle: Water and solar
 
 A biosolar roof will be placed on the roof area that is not dedicated to the roof park. Using a biosolar roof allows for a multifunctional use of roof area -- it at once collects solar energy and has greenery growing on it.
 
-Te overall climate system will work as follows:
+The overall climate system will work as follows:
 
 ![climate](/assets/img/climate.jpg){: .mx-auto.d-block :}
 
