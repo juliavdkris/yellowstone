@@ -29,5 +29,8 @@ The below image displays the visibility of the Erasmus Brug hotspot. There are f
 ## Noise analysis
 We performed the noise analysis using a soundmap from atlasleefomgeving.nl (Atlas of The Living Environment). The analysis calculates how noise travels through the space by assigning values to points based on their distance from noise sources. Then these values are weighed and normalized to create the final acoustic analysis.
 
+Below is a flowchart showing the process, as well as the output of the noise analysis.
+
 ![noise flowchart](/assets/img/sun_view_hotspot_flow.png){: .mx-auto.d-block :}
+
 ![noise](/assets/img/noise.png){: .mx-auto.d-block :}
