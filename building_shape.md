@@ -11,7 +11,7 @@ This first output is created from an unweighted scenario -- essentially, there i
 
 ![building shape 1](/assets/img/buildingshape1.jpg){: .mx-auto.d-block :}
 
-The building shape below has a hiher gravity weight and  makes more sense for our goals. However, there are some strange sections still.
+The building shape below has a higher gravity weight and  makes more sense for our goals. However, there are some strange sections still.
 
 ![building shape 2](/assets/img/buildingshape2.jpg){: .mx-auto.d-block :}
 
