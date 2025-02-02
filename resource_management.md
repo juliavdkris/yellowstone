@@ -16,9 +16,9 @@ Specifically, the biosolar roofs that are not on the roof park will look like th
 
 ## Available roof area
 To determine the approximate water collection capacity and solar potential of our building, we calculated the total final roof area. 
-    Total: 4,329 m²
-    Roof park: 2,790 m²
-    Remaining: 1,539 m²
+- Total: 4,329 m²
+- Roof park: 2,790 m²
+- Remaining: 1,539 m²
 Thus, on our final building, there are approximately 1,500 square meters available for a biosolar roof.
 
 ## Solar potential
